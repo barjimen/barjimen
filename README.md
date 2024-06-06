@@ -1,1 +1,30 @@
-# barby-s_things
+<h1 align="center">Hi, I'm Barby!</h1>
+<h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
+<br>
+
+- 🔭 I’m currently working on:
+    - **So_Long** : 2D videogame in C.
+    - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
+
+- 🌱 I’m learning at **42 Madrid**
+
+- 📚 My last projects:
+    - **Minitalk:** Create a small exchange program data using UNIX signals.
+    - **Get_Next_Line:** Program a function that returns a line read from a file descriptor.
+    - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
+    - **Ft_Printf:** Reprogram the printf() function of the libc.
+    - **Libft:** This project consists of programming a library in C.
+<br>
+ - 👩‍💻 UX/UI projects:
+    - 📅 Task management app -> <a href="https://www.figma.com/proto/4VEUknuLRNEmdoJPO5U5Ll/HIFI---Grow-Your-Plan?node-id=430-88&starting-point-node-id=430%3A88&t=jEWag4JfPnXReBQa-1" target="_blank" style="color: lightgreen;"> **Grow Your Plan** </a>
+    - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> **creARTive** </a>
+<br>
+ - About me: I'm also a photographer! 📸
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/barbarajimenez17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barbarajimenez17/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
