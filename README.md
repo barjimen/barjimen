@@ -14,12 +14,11 @@
     - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
     - **Ft_Printf:** Reprogram the printf() function of the libc.
     - **Libft:** This project consists of programming a library in C.
-<br>
+
 - 👩‍💻 UX/UI projects:
     - 📅 Task management app -> Grow Your Plan </a>
     - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
-    
-<br>
+
  - About me: I'm also a photographer! 📸
 
 <div style="display: flex;  justify-content: space-between; padding: 15px;">
