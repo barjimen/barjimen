@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Barby!</h1>
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barjimen&" alt="barjimen" /></p>
 
 - 🔭 I’m currently working on:
     - **So_Long** : 2D videogame in C.
@@ -36,5 +37,3 @@
     </div>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barjimen&show_icons=true&theme=dracula&locale=en" alt="barjimen" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barjimen&" alt="barjimen" /></p>
