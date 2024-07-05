@@ -3,7 +3,8 @@
 <br>
 
 - 🔭 I’m currently working on:
-    - **So_Long** : 2D videogame in C. https://progress-bar.dev/50/?title=done
+    - **So_Long** : 2D videogame in C. <br>
+      <img src="https://progress-bar.dev/60/?title=done"></img>
     - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
 - 🌱 I’m learning at **42 Madrid**
