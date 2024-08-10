@@ -7,9 +7,9 @@
     - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
 - 🌱 I’m learning at **42 Madrid**
-<br>
+  
 - 🧋​ Other studies I'm in:
-    - ☁️ Master's Degree Full Stack Devoloper + AWS + Azure
+     - Master's Degree Full Stack Devoloper + AWS + Azure
 
 - 📚 My last projects:
     - **So_Long:** Create a 2D videogame in C.  
