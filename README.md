@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on:
     - **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
-      <img src="https://progress-bar.dev/0/?title=done"></img>
     - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
 - 🌱 I’m learning at **42 Madrid**
