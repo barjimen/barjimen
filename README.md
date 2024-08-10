@@ -11,12 +11,14 @@
 - Master's Degree Full Stack Devoloper + AWS + Azure
 
 ## 📚 My last projects:
-- **So_Long:** Create a 2D videogame in C.  
-- **Minitalk:** Create a small exchange program data using UNIX signals.
- - **Get_Next_Line:** Program a function that returns a line read from a file descriptor.
- - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
-- **Ft_Printf:** Reprogram the printf() function of the libc.
- - **Libft:** This project consists of programming a library in C.
+| Project | Description |
+| --- | --- |
+| **So_Long** | Create a 2D videogame in C. |
+| **Minitalk** | Create a small exchange program data using UNIX signals. |
+| **Get_Next_Line** | Program a function that returns a line read from a file descriptor. |
+| **Born2beroot** | This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox. |
+| **Ft_Printf** | Reprogram the printf() function of the libc. |
+| **Libft** | This project consists of programming a library in C. |
 
 ## 👩‍💻 UX/UI projects:
 - 📅 Task management app -> Grow Your Plan </a>
