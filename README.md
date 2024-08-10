@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Barby!</h1>
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
 
-## I’m currently working on:
+## 💻 I’m currently working on:
 
 - **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
 - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
