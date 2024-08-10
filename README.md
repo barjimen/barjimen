@@ -3,13 +3,14 @@
 <br>
 
 - 🔭 I’m currently working on:
-    - **So_Long** : 2D videogame in C. <br>
+    - **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
       <img src="https://progress-bar.dev/100/?title=done"></img>
     - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
 - 🌱 I’m learning at **42 Madrid**
 
 - 📚 My last projects:
+    - **So_Long:** Create a 2D videogame in C.  
     - **Minitalk:** Create a small exchange program data using UNIX signals.
     - **Get_Next_Line:** Program a function that returns a line read from a file descriptor.
     - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
