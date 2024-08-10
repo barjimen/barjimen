@@ -1,29 +1,29 @@
 <h1 align="center">Hi, I'm Barby!</h1>
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
-<br>
 
-- 🔭 I’m currently working on:
-    - **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
-    - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
+## I’m currently working on:
 
-- 🌱 I’m learning at **42 Madrid**
-  
-- 🧋​ Other studies I'm in:
-     - Master's Degree Full Stack Devoloper + AWS + Azure
+- **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
+- **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
-- 📚 My last projects:
-    - **So_Long:** Create a 2D videogame in C.  
-    - **Minitalk:** Create a small exchange program data using UNIX signals.
-    - **Get_Next_Line:** Program a function that returns a line read from a file descriptor.
-    - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
-    - **Ft_Printf:** Reprogram the printf() function of the libc.
-    - **Libft:** This project consists of programming a library in C.
+## 🌱 Learning at
+- **42 Madrid**  
+- Master's Degree Full Stack Devoloper + AWS + Azure
 
-- 👩‍💻 UX/UI projects:
-    - 📅 Task management app -> Grow Your Plan </a>
-    - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
+## 📚 My last projects:
+- **So_Long:** Create a 2D videogame in C.  
+- **Minitalk:** Create a small exchange program data using UNIX signals.
+ - **Get_Next_Line:** Program a function that returns a line read from a file descriptor.
+ - **Born2beroot:** This project seeks to introduce you to virtualization.You will create your first machine in VirtualBox.
+- **Ft_Printf:** Reprogram the printf() function of the libc.
+ - **Libft:** This project consists of programming a library in C.
 
- - About me: I'm also a photographer! 📸
+## 👩‍💻 UX/UI projects:
+- 📅 Task management app -> Grow Your Plan </a>
+ - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
+
+## Others:
+ - I'm also a photographer! 📸
 
 <div style="display: flex;  justify-content: space-between; padding: 15px;">
     <div>
