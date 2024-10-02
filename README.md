@@ -4,6 +4,7 @@
 ## 💻 I’m currently working on:
 
 - **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
+- **Minishell** : The goal of this project is to create a simple shell. You will learn a lot about processes and file descriptors. <br>
 - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
 
 ## 🌱 Learning at
