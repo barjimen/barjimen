@@ -45,4 +45,5 @@
 </div>
 
 ## Stats:
-![](https://github-readme-stats.vercel.app/api?username=barjimen&theme=synthwave_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=barjimen&show_icons=true&theme=aura)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barjimen&layout=compact)
