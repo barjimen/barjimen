@@ -44,6 +44,7 @@
     </div>
 </div>
 
-## Stats:
-![](https://github-readme-stats.vercel.app/api?username=barjimen&show_icons=true&theme=aura)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barjimen&layout=compact)
+
+
+
+![github-user-contribution](https://github.com/user-attachments/assets/96b4ec61-00d8-4871-974b-04d2d9f78557)
