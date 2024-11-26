@@ -2,8 +2,7 @@
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
 
 ## 💻 I’m currently working on:
-
-- **Push_Swap** : This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. <br>
+- **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 - **Minishell** : The goal of this project is to create a simple shell. You will learn a lot about processes and file descriptors. <br>
 - **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
 - **UX/UI:** Designing a public interest initiative by creating a dedicated mobile app and responsive website.
@@ -15,6 +14,7 @@
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **Push_Swap** | This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. |
 | **So_Long** | Create a 2D videogame in C. |
 | **Minitalk** | Create a small exchange program data using UNIX signals. |
 | **Get_Next_Line** | Program a function that returns a line read from a file descriptor. |
