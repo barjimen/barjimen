@@ -26,6 +26,9 @@
 - 📅 Task management app -> Grow Your Plan </a>
  - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
 
+## Certifications:
+<img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="width: 150px">
+
 ## Others:
  - I'm also a photographer! 📸
 
@@ -33,7 +36,8 @@
     <div>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/barbarajimenez17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barbarajimenez17/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/barbarajimenez17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barbarajimenez17/"![microsoft-certified-associate-badge](https://github.com/user-attachments/assets/af2aba35-982a-4724-bbd4-48d3d1c024f6)
+ height="30" width="40" /></a>
     </p>
     </div>
     <div>
