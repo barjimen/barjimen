@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Barby!</h1>
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/barjimen"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## 💻 I’m currently working on:
 - **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 - **Minishell** : The goal of this project is to create a simple shell. You will learn a lot about processes and file descriptors. <br>
