@@ -2,13 +2,15 @@
 <h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/barjimen"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/barjimen?pet-id=656799250287021231"
+    width="600"
+    height="120"
+  />
 </a>
+  
   
 
 ## 💻 I’m currently working on:
