@@ -39,7 +39,10 @@
  - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
 
 ## Certifications:
-<img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="width: 150px">
+<div>
+  <img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="width: 150px">
+<img src="https://images.credly.com/size/680x680/images/dd747f80-8831-4034-89eb-9f9f08496a3e/image.png" style="width:150px">
+</div>
 
 ## Others:
  - I'm also a photographer! 📸
