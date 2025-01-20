@@ -14,9 +14,9 @@
   
 
 ## 💻 I’m currently working on:
-- **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
-- **Minishell** : The goal of this project is to create a simple shell. You will learn a lot about processes and file descriptors. <br>
-- **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
+- 💬 **Chat APP** : Front-end development of an application where talks proposed by students in class are managed. <br> 
+- 🧙‍♂️ **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. <br>
+- 👾 **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
 
 ## 🌱 Learning at
 - **42 Madrid**  
@@ -25,6 +25,7 @@
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **Minishell** | This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. |
 | **Push_Swap** | This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. |
 | **So_Long** | Create a 2D videogame in C. |
 | **Minitalk** | Create a small exchange program data using UNIX signals. |
