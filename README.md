@@ -14,7 +14,7 @@
   
 
 ## 💻 I’m currently working on:
-- 💬 **Chat APP** : Front-end development of an application where talks proposed by students in class are managed. <br> 
+- 💬 **Chat APP** : Front-end development of an application for managing talks proposed by students during class. <br> 
 - 🧙‍♂️ **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. <br>
 - 👾 **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
 
