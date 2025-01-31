@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Barby!</h1>
-<h3 align="center">🌸 A passionate frontend and UX/UI designer from Spain 🌸</h3>
+<h3 align="center">🌸 A passionate Full Stack and Software developer + UX/UI designer from Spain 🌸</h3>
 
 
 
