@@ -14,7 +14,7 @@
   
 
 ## 💻 I’m currently working on:
-- 💬 **Chat APP** : Front-end development of an application for managing talks proposed by students during class. <br> 
+- 
 - 🧙‍♂️ **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. <br>
 - 👾 **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
 
@@ -25,6 +25,7 @@
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **Chat APP** | Front-end development of an application for managing student-proposed talks during class, using Vue.js for functionality and Figma for interface design.| 
 | **Minishell** | This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. |
 | **Push_Swap** | This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. |
 | **So_Long** | Create a 2D videogame in C. |
