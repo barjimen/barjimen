@@ -14,7 +14,6 @@
   
 
 ## 💻 I’m currently working on:
-- 
 - 🧙‍♂️ **Philosophers** : This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. <br>
 - 👾 **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
 
@@ -39,6 +38,7 @@
 - 📅 Task management app -> Grow Your Plan </a>
  - 🎞️ Website to support the growth of new artists -> <a href="https://www.figma.com/proto/HfiwkfLKFtkToIY5gmppJk/CreARTive---Proyecto-definitivo?node-id=12-79&starting-point-node-id=12%3A79&t=9jPZE5LKRQyjfODv-1" target="_blank" style="color: #EFC7C2;"> creARTive </a>
  - 🌱 Responsive APP to manage community gardens, promoting environmental education and enjoying outdoor activities -> Urban roots
+ - 🗨️ Interface desings for managing students-proposed talks ->  <a href="https://www.figma.com/design/aMFGlGRG36Cjda7grgWnU1/APP-CHARLAS?node-id=340-3&t=3PWB5vhJ8UMxLdkN-1"> TechTalks Tajamar </a>
 
 ## Certifications:
 <div>
