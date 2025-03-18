@@ -24,6 +24,7 @@
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **Bookly** | App developed in .NET. Tracking readings and books, like Goodreads.| 
 | **Chat APP** | Front-end development of an application for managing student-proposed talks during class, using Vue.js for functionality and Figma for interface design.| 
 | **Minishell** | This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. |
 | **Push_Swap** | This project will have you sort data into a stack, with a limited set of instructions, and using the fewest possible actions. |
