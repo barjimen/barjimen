@@ -15,6 +15,9 @@
 
 ## 💻 I’m currently working on:
 - 👾 **Cub3D** : This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. <br>
+- **C++** : This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! <br>
+- 🌐 **NetPractice** : This project is a general practical exercise to let you discover networking.
+- 📕 **Bookly V2**: Now with Azure!
 
 ## 🌱 Learning at
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ✨ 42 Madrid ✨
