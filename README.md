@@ -44,9 +44,11 @@
 
 ## Certifications:
 <div>
-  <img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="width: 150px">
-<img src="https://images.credly.com/size/680x680/images/dd747f80-8831-4034-89eb-9f9f08496a3e/image.png" style="width:150px">
+  <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-developer-associate.png" style="width:150px">
+  <img src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" style="width: 150px">
+  <img src="https://images.credly.com/size/680x680/images/dd747f80-8831-4034-89eb-9f9f08496a3e/image.png" style="width:150px">
 </div>
+
 
 ## Others:
  - I'm also a photographer! 📸
@@ -59,7 +61,7 @@
  height="30" width="40" /></a>
     </p>
     </div>
-  
+
 ### Languages:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
