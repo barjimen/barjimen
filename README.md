@@ -2,14 +2,14 @@
 <h3 align="center">🌸 A passionate Full Stack and Software developer + UX/UI designer from Spain 🌸</h3>
 
 
-
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=barjimen&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/barjimen?pet-id=656799250287021231"
+    src="https://render.gitanimals.org/lines/barjimen?pet-id=735927242231442888"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
+  
   
 ## 💻 I’m currently working on:
 - **C++** : This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! <br>
