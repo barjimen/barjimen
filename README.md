@@ -9,19 +9,18 @@
     height="200"
   />
 </a>
-  
-  
+
 ## 💻 I’m currently working on:
 - **C++** : This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! <br>
-- 🌐 **NetPractice** : This project is a general practical exercise to let you discover networking.
 
 ## 🌱 Learning at
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ✨ 42 Madrid ✨
-- Master's Degree Full Stack Devoloper + AWS + Azure
+- Master's Degree Full Stack Devoloper + AWS + Azure - finished!
 
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **Netpractice** | This project is a general practical exercise to let you discover networking. |
 | **Bookly V2** | App developed in .NET and deploy in Azure. Tracking readings and books, like Goodreads. |
 | **Cub3D** | This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.|
 | **Philosophers** | This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
@@ -47,8 +46,11 @@
   <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-developer-associate.png" style="width:150px">
   <img src="https://images.credly.com/size/340x340/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png" style="width: 150px">
   <img src="https://images.credly.com/size/680x680/images/dd747f80-8831-4034-89eb-9f9f08496a3e/image.png" style="width:150px">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png" style="width:150px">
 </div>
 
+## Working at:
+- Conersys Sport Solutions.
 
 ## Others:
  - I'm also a photographer! 📸
