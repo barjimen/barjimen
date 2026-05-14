@@ -11,6 +11,8 @@
 </a>
 
 ## 💻 I’m currently working on:
+- **Portfolio** : Creating my own portfolio + creative desing :)
+- **Trascendence** : This project involves undertaking tasks you have never done before. Remember the beginning of your journey in computer science.
 - **Inception** : This project aims to broaden your knowledge of system administration through the use of Docker technology. You will virtualize several Docker images by creating them in your new personal virtual machine.
 - **C++** : This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! <br>
 
