@@ -14,15 +14,17 @@
 - **Portfolio** : Creating my own portfolio + creative desing :)
 - **Trascendence** : This project involves undertaking tasks you have never done before. Remember the beginning of your journey in computer science.
 - **Inception** : This project aims to broaden your knowledge of system administration through the use of Docker technology. You will virtualize several Docker images by creating them in your new personal virtual machine.
-- **C++** : This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! <br>
+- **C++** :  <br>
 
 ## 🌱 Learning at
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ✨ 42 Madrid ✨
-- Master's Degree Full Stack Devoloper + AWS + Azure - finished!
+- Master's Degree Full Stack Devoloper + AWS + Azure - **finished!**
 
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
+| **C++ (0 to 9)** | The goal of these modules is to introduce you to Object-Oriented Programming. C++ journey.  |
+| **IRC** | This project is about creating your own IRC server. You will use an actual IRC client to connect to your server and test it. The Internet is governed by solid standard protocols that allow connected computers to interact with each other. |
 | **Netpractice** | This project is a general practical exercise to let you discover networking. |
 | **Bookly V2** | App developed in .NET and deploy in Azure. Tracking readings and books, like Goodreads. |
 | **Cub3D** | This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.|
