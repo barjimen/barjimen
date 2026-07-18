@@ -14,7 +14,6 @@
 - **Portfolio** : Creating my own portfolio + creative desing :)
 - **Trascendence** : This project involves undertaking tasks you have never done before. Remember the beginning of your journey in computer science.
 - **Inception** : This project aims to broaden your knowledge of system administration through the use of Docker technology. You will virtualize several Docker images by creating them in your new personal virtual machine.
-- **C++** :  <br>
 
 ## 🌱 Learning at
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ✨ 42 Madrid ✨
