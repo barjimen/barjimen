@@ -17,6 +17,7 @@
 
 ## 🌱 Learning at
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ✨ 42 Madrid ✨
+- **Codédex**: Improving my React and Python skills!
 - Master's Degree Full Stack Devoloper + AWS + Azure - **finished!**
 
 ## 📚 My last projects:
