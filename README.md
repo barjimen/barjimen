@@ -14,10 +14,15 @@
 <tr>
 <td width="40%" valign="top">
 
-<img src="https://github.com/barjimen.png" width="100%" style="border-radius: 15px;" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=barjimen&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/barjimen?pet-id=735927242231442888"
+    width="520"
+  />
+</a>
 
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="center">
 
 ```json
 {
@@ -26,7 +31,7 @@
   "role": ["Full Stack Developer", "Software Developer", "UX/UI Designer"],
   "location": "Spain 🇪🇸",
   "studying_at": "42 Madrid",
-  "working_at": ["Conersys Sport Solutions", "Seeking new opportunities"],
+  "working_at": "Conersys Sport Solutions",
   "currently": [
     "Designing my portfolio",
     "Transcendence (42Madrid)",
@@ -36,17 +41,6 @@
   "contact": "linkedin.com/in/barbarajimenez17"
 }
 ```
-
-<div align="center">
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=barjimen&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/barjimen?pet-id=735927242231442888"
-    width="320"
-  />
-</a>
-
-</div>
 
 </td>
 </tr>
