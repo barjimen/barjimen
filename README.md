@@ -14,12 +14,15 @@
 <tr>
 <td width="40%" valign="top">
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=barjimen&utm_content=line">
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=barjimen&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/barjimen?pet-id=735927242231442888"
-    width="520"
+    src="https://render.gitanimals.org/lines/barjimen?pet-id=656799250287021230"
+    width="400"
+    height="400"
   />
 </a>
+  
 
 </td>
 <td width="60%" valign="center">
