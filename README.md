@@ -53,7 +53,6 @@
 <table width="100%">
 <tr>
 <td width="1000px" align="center">
-<img src="https://img.shields.io/badge/-42%20Madrid-000000?style=for-the-badge&logo=42&logoColor=white" /><br><br>
 <img src="https://img.shields.io/badge/Codédex-Improving%20my%20React%20%26%20Python%20skills-FF6B6B?style=for-the-badge&logo=react&logoColor=white" /><br><br>
 <img src="https://img.shields.io/badge/Master-Full%20Stack%20%2B%20AWS%20%2B%20Azure%20(Finished)-6C63FF?style=for-the-badge" />
 </td>
@@ -74,18 +73,6 @@
 
 ### 🎨 Portfolio
 Creating my own portfolio with a creative, personal design.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🚀 Transcendence
-A project that challenges you with tasks you've never done before. Back to the beginning of your computer science journey.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🐳 Inception
-Broadening my system administration knowledge through Docker, virtualizing images on my own personal VM.
 
 </td>
 </tr>
