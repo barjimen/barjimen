@@ -33,12 +33,9 @@
   "nickname": "Barby",
   "role": ["Full Stack Developer", "Software Developer", "UX/UI Designer"],
   "location": "Spain 🇪🇸",
-  "studying_at": "42 Madrid",
   "working_at": "Conersys Sport Solutions",
   "currently": [
-    "Designing my portfolio",
-    "Transcendence (42Madrid)",
-    "Inception (Docker & sysadmin)"
+    "Designing my portfolio"
   ],
   "hobbies": ["Photography", "Design", "Reading"],
   "contact": "linkedin.com/in/barbarajimenez17"
