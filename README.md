@@ -2,7 +2,7 @@
 
 # Hi, I'm Barby!🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFC7C2&center=true&vCenter=true&width=500&lines=Full+Stack+%2B+Software+Developer;UX%2FUI+Designer;42+Madrid+Student;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFC7C2&center=true&vCenter=true&width=500&lines=Full+Stack+%2B+Software+Developer;UX%2FUI+Designer;" />
 
 </div>
 
