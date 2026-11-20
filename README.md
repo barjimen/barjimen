@@ -33,9 +33,9 @@
   "nickname": "Barby",
   "role": ["Full Stack Developer", "Software Developer", "UX/UI Designer"],
   "location": "Spain 🇪🇸",
-  "working_at": "Conersys Sport Solutions",
+  "working_at": "Freelance Full Stack Developer",
   "currently": [
-    "Designing my portfolio"
+    "Diverse projects!"
   ],
   "hobbies": ["Photography", "Design", "Reading"],
   "contact": "linkedin.com/in/barbarajimenez17"
