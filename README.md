@@ -65,20 +65,6 @@
 
 <br>
 
-## 💻 What I'm currently working on
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🎨 Portfolio
-Creating my own portfolio with a creative, personal design.
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 📚 My latest projects
 
